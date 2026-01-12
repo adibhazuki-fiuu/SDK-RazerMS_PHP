@@ -2,6 +2,10 @@
 
 This is a PHP library for integrating with the Razer Merchant Services (RMS) hosted payment gateway. It provides a simple interface for creating and managing transactions, handling callbacks, and more.
 
+UPDATE NOTICE
+-----------------
+Latest PHP SDK moved to new URL https://github.com/FiuuPayment/SDK-Fiuu_PHP
+
 ## Installation
 
 To use this library, simply clone the repository or install via composer:
@@ -91,17 +95,17 @@ You can contribute to this plugin by sending the pull request to this repository
 Issues
 ------------
 
-Submit issue to this repository or email to our support-sa@fiuu.com
+Submit issue to this repository or email to our support@fiuu.com
 
 
 Contact Support
 -------
 
-Merchant Technical Support / Customer Care : support-sa@fiuu.com <br>
-Sales/Reseller Enquiry : sales-sa@fiuu.com <br>
-Marketing Campaign : marketing-sa@fiuu.com <br>
-Channel/Partner Enquiry : channel-sa@fiuu.com <br>
-Media Contact : media-sa@fiuu.com <br>
-R&D and Tech-related Suggestion : technical-sa@fiuu.com <br>
-Abuse Reporting : abuse-sa@fiuu.com
+Merchant Technical Support / Customer Care : support@fiuu.com <br>
+Sales/Reseller Enquiry : sales@fiuu.com <br>
+Marketing Campaign : marketing@fiuu.com <br>
+Channel/Partner Enquiry : channel@fiuu.com <br>
+Media Contact : media@fiuu.com <br>
+R&D and Tech-related Suggestion : technical@fiuu.com <br>
+Abuse Reporting : abuse@fiuu.com
 
